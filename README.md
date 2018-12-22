@@ -9,4 +9,4 @@ cross-library-java Project Assessment
 * Highly optimized and quality code
 * Easy and uploadable through git patch
 
-# to get this contact me at eeiijjyy1@gmail.com
+# to get this contact me at adtaradtar@gmail.com
